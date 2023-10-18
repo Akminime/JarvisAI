@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akmin\\desktop\\coding things\\JarvisAI\\JarvisAI.csproj": {}
+    "C:\\Users\\akmin\\Desktop\\Coding Things\\JarvisAI\\JarvisAI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akmin\\desktop\\coding things\\JarvisAI\\JarvisAI.csproj": {
+    "C:\\Users\\akmin\\Desktop\\Coding Things\\JarvisAI\\JarvisAI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akmin\\desktop\\coding things\\JarvisAI\\JarvisAI.csproj",
+        "projectUniqueName": "C:\\Users\\akmin\\Desktop\\Coding Things\\JarvisAI\\JarvisAI.csproj",
         "projectName": "JarvisAI",
-        "projectPath": "C:\\Users\\akmin\\desktop\\coding things\\JarvisAI\\JarvisAI.csproj",
+        "projectPath": "C:\\Users\\akmin\\Desktop\\Coding Things\\JarvisAI\\JarvisAI.csproj",
         "packagesPath": "C:\\Users\\akmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akmin\\desktop\\coding things\\JarvisAI\\obj\\",
+        "outputPath": "C:\\Users\\akmin\\Desktop\\Coding Things\\JarvisAI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
