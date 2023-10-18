@@ -1,0 +1,14 @@
+C:\Users\akmin\desktop\coding things\JarvisAI\bin\Debug\net7.0\JarvisAI.exe
+C:\Users\akmin\desktop\coding things\JarvisAI\bin\Debug\net7.0\JarvisAI.deps.json
+C:\Users\akmin\desktop\coding things\JarvisAI\bin\Debug\net7.0\JarvisAI.runtimeconfig.json
+C:\Users\akmin\desktop\coding things\JarvisAI\bin\Debug\net7.0\JarvisAI.dll
+C:\Users\akmin\desktop\coding things\JarvisAI\bin\Debug\net7.0\JarvisAI.pdb
+C:\Users\akmin\desktop\coding things\JarvisAI\obj\Debug\net7.0\JarvisAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akmin\desktop\coding things\JarvisAI\obj\Debug\net7.0\JarvisAI.AssemblyInfoInputs.cache
+C:\Users\akmin\desktop\coding things\JarvisAI\obj\Debug\net7.0\JarvisAI.AssemblyInfo.cs
+C:\Users\akmin\desktop\coding things\JarvisAI\obj\Debug\net7.0\JarvisAI.csproj.CoreCompileInputs.cache
+C:\Users\akmin\desktop\coding things\JarvisAI\obj\Debug\net7.0\JarvisAI.dll
+C:\Users\akmin\desktop\coding things\JarvisAI\obj\Debug\net7.0\refint\JarvisAI.dll
+C:\Users\akmin\desktop\coding things\JarvisAI\obj\Debug\net7.0\JarvisAI.pdb
+C:\Users\akmin\desktop\coding things\JarvisAI\obj\Debug\net7.0\JarvisAI.genruntimeconfig.cache
+C:\Users\akmin\desktop\coding things\JarvisAI\obj\Debug\net7.0\ref\JarvisAI.dll
